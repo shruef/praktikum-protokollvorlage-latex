@@ -122,7 +122,7 @@
 \usepackage{xstring}                            % used for creating substring 
                                                 % out of \appendixname
 \usepackage{multicol}                           % used for titlepage. Usefull 
-                                                % for other stuff, too.
+\usepackage{multirow}                                                % for other stuff, too.
 
 \DeclareGraphicsRule{*}{mps}{*}{}               % enables compiling 
                                                 % images with pdf-latex
@@ -159,7 +159,7 @@
 \usepackage{svg}                                % include svg graphics
 
 
-
+\usepackage{pdfpages}
 
 
 
